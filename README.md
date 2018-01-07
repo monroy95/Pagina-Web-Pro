@@ -1,2 +1,2 @@
 # Pagina-Web-Profesional
-Ejemplo básico para la creación de una pagina web profesional.
+Ejemplo básico para empezar la creación de una pagina web profesional.
